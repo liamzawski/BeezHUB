@@ -1,4 +1,1 @@
-
-_G.LoadingScreen = true
-ID="b9dc2939-a938-4452-8978-23bbeffed689";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("https://pastefy.app/B0oVsOas/raw"))()
